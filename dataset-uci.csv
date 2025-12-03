@@ -1,0 +1,20 @@
+Variable Name,Role,Type,Demographic,Description,Units,Missing Values
+Case Type,Target,Binary,,"Target variable, Familial case (1), and Sporadic case (0)",,No
+Tumor Case,Feature,Binary,,,,No
+Age of Mother,Feature,Integer,Age,,,Yes
+Age of Father,Feature,Integer,Age,,,Yes
+Age at First Diagnosis,Feature,Integer,Age,,,Yes
+Café au lait (CLS),Feature,Binary,,,,No
+Axillary Freckles,Feature,Binary,,,,No
+Inguinal Freckles,Feature,Binary,,,,No
+Lisch Nodules,Feature,Binary,,,,No
+Dermal Neurofibromins,Feature,Binary,,,,No
+Plexiform Neurofibromins,Feature,Binary,,,,No
+Optic Glioma,Feature,Binary,,,,No
+Skeletal Dysplasia,Feature,Binary,,,,No
+Learninn Disability,Feature,Binary,,,,No
+Hypertension,Feature,Binary,,,,No
+Astrocytoma,Feature,Binary,,,,No
+Hamartoma,Feature,Binary,,,,No
+Scoliosis,Feature,Binary,,,,No
+Other Symptoms,Feature,Binary,,,,No
